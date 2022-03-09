@@ -9,3 +9,13 @@ their child component tree, log those errors, and display a fallback UI instead
 of the component tree that crashed. Error boundaries catch errors during
 rendering, in lifecycle methods, and in constructors of the whole tree below
 them.
+
+## Usage
+
+!!! note 
+  This is scaffolding for sushiswap's interface, hence the `import` statements and dependencies that are not listed in `package.json`
+  
+  
+## License
+
+MIT/Apache-2.0
