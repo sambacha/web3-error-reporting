@@ -10,6 +10,10 @@ of the component tree that crashed. Error boundaries catch errors during
 rendering, in lifecycle methods, and in constructors of the whole tree below
 them.
 
+## Specification
+
+> [see 'css-contain' ](https://drafts.csswg.org/css-contain/)
+
 ## Usage
 
 !!! note 
