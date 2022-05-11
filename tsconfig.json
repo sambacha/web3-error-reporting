@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": false,
+    "emitDecoratorMetadata": false,
+    "resolveJsonModule": false,
+    "esModuleInterop": false,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es2020",
+    "noImplicitAny": false,
+    "noUnusedLocals": true,
+    "sourceMap": false,
+    "outDir": "./lib",
+    "declaration": true,
+    "jsx": "react",
+    "lib": [
+      "es2020",
+      "dom",
+      "dom.iterable"
+    ],
+  },
+  "include": [
+    "./src/**/*.ts",
+    "./src/**/*.tsx"
+  ],
+    "exclude": ["**/node_modules", "**/.*/"]
+  ]
+}
